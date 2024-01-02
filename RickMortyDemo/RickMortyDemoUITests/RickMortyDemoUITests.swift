@@ -1,9 +1,3 @@
-//
-//  RickMortyDemoUITests.swift
-//  RickMortyDemoUITests
-//
-//  Created by Adrián Moreno on 20/12/23.
-//
 
 import XCTest
 

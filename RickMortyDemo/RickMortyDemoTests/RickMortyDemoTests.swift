@@ -1,9 +1,3 @@
-//
-//  RickMortyDemoTests.swift
-//  RickMortyDemoTests
-//
-//  Created by Adrián Moreno on 20/12/23.
-//
 
 import XCTest
 @testable import RickMortyDemo

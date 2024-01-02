@@ -1,9 +1,3 @@
-//
-//  Item.swift
-//  RickMortyDemo
-//
-//  Created by Adrián Moreno on 20/12/23.
-//
 
 import Foundation
 import SwiftData
